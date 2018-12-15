@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "508048644332",
+    "firebase_url": "https://turistando-2804.firebaseio.com",
+    "project_id": "turistando-2804",
+    "storage_bucket": "turistando-2804.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508048644332:android:05a5d112e1582db4",
+        "android_client_info": {
+          "package_name": "com.eletroluke.turweek2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508048644332-2n8nohaf2ofo2alf33jdabia5cn5apie.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eletroluke.turweek2",
+            "certificate_hash": "42607929435a275e355eebba65e9c4e7dce3f28f"
+          }
+        },
+        {
+          "client_id": "508048644332-v458gho8baro7va3jmbua9g9r5gv5mk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDy-uoImvzpZjo7CoP5CJ7IcllUBJa4hQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508048644332-v458gho8baro7va3jmbua9g9r5gv5mk1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
